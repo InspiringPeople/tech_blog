@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Welcome Kay's Tech Blog 
-description: Study Fast.ai book
+title: Kay's Study Blog 
+description: 자세히 보아야 아름답다, 너도 그렇다.
 github_username: InspiringPeople
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "tech_blog"
