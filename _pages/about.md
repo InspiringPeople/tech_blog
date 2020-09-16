@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 좋아하는 글귀
+title: About
 permalink: /about/
 ---
 
