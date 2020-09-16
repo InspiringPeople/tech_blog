@@ -6,10 +6,16 @@
 
 https://InspiringPeople.github.io/tech_blog/
 
-# My Blog
+# Fast.ai Tech Blog
+facebook fast.ai 커뮤니티 멤버들과 스터디
+박찬성님 fastpages 소개 자료 :  
+공식 fastpages 링크 :  
+fast.ai 스터디에서 다루는 책 리뷰 블로그  
+fast.ai를 만든 제레미와 실바인이 쓴 책 <Deep Learning for Coders with fastai & Pytorch>를 학습
 
+[draft책 깃헙 링크](https://github.com/fastai/fastbook)
+[스터디 아카이빙 문서 링크](https://github.com/fast-ai-kr/fast-ai-study/wiki)
 
-_powered by [fastpages](https://github.com/fastai/fastpages)_
 
 
 ## What To Do Next?
